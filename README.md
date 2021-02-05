@@ -13,4 +13,24 @@ Leetcode practice in python and C++
 0110 Balanced Binary Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/110.py)\
 0111 Minimum Depth of Binary Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/111.py)\
 0112 Path Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/112.py)\
-
+0121 Best Time to Buy and Sell Stock [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/121.py)\
+0122 Best Time to Buy and Sell Stock II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/122.py)\
+0190 Reverse Bits [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/190.py)\
+0191 Number of 1 Bits [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/191.py)\
+0203 Remove Linked List Elements [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/203.py)\
+0207 Course Schedule [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/207.py)\
+0217 Contains Duplicate [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/217.py)\
+0219 Contains Duplicate II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/219.py)\
+0242 Valid Anagram [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/242.py)\
+0392 Is Subsequence [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)\
+0438 Find All Anagrams in a String [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/438.py)\
+0455 Assign Cookies [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/455.py)\
+0566 Reshape the Matrix [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/566.py)\
+0605 Can Place Flowers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/605.py)\
+0703 Kth Largest Element in a Stream [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/703.py)\
+0832 Flipping an Image [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/832.py)\
+0860 Lemonade Change [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/860.py)\
+0997 Find the Town Judge [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/997.py)\
+1046 Last Stone Weight [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1046.py)\
+1629 Slowest Key [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1629.py)\
+1652 Defuse the Bomb [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)\
