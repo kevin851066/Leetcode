@@ -8,9 +8,9 @@ Leetcode practice in python and C++
 0027 Remove Element [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/27.py)\
 0100 Same Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/100.py)\
 0101 Symmetric Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/101.py)\
-0104 Maximum Depth of Binary Tree [[py]] (https://github.com/kevin851066/Leetcode/blob/main/Python/104.py)\
-0108
-0110
-0111
-0112
+0104 Maximum Depth of Binary Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/104.py)\
+0108 Convert Sorted Array to Binary Search Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/108.py)\
+0110 Balanced Binary Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/110.py)\
+0111 Minimum Depth of Binary Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/111.py)\
+0112 Path Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/112.py)\
 
