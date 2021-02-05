@@ -33,4 +33,4 @@ Leetcode practice in python and C++
 0997 Find the Town Judge [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/997.py)
 1046 Last Stone Weight [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1046.py)\
 1629 Slowest Key [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1629.py)\
-1652 Defuse the Bomb [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)\
+1652 Defuse the Bomb [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)
