@@ -19,9 +19,11 @@ Leetcode practice in python and C++
 0191 Number of 1 Bits [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/191.py)\
 0203 Remove Linked List Elements [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/203.py)\
 0207 Course Schedule [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/207.py)\
+0210 Course Schedule II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/210.py)\
 0217 Contains Duplicate [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/217.py)\
 0219 Contains Duplicate II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/219.py)\
 0242 Valid Anagram [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/242.py)\
+0310 Minimum Height Trees [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)\
 0392 Is Subsequence [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)\
 0438 Find All Anagrams in a String [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/438.py)\
 0455 Assign Cookies [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/455.py)\
