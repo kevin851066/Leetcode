@@ -4,8 +4,10 @@ Leetcode practice in python and C++
 0001 Two Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1.py)[[cpp]](https://github.com/kevin851066/Leetcode/blob/main/C%2B%2B/1.cpp)\
 0003 Longest Substring Without Repeating Characters [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/3.py)[[cpp]](https://github.com/kevin851066/Leetcode/blob/main/C%2B%2B/3.cpp)\
 0013 Roman to Integer [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/13.py)\
+0020 Valid Parentheses [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/20.py)\
 0026 Remove Duplicates from Sorted Array [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/26.py)\
 0027 Remove Element [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/27.py)\
+0031 Next Permutation [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/31.py)\
 0046 Permutations [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/46.py)\
 0047 Permutations II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/47.py)\
 0100 Same Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/100.py)\
@@ -17,6 +19,7 @@ Leetcode practice in python and C++
 0112 Path Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/112.py)\
 0121 Best Time to Buy and Sell Stock [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/121.py)\
 0122 Best Time to Buy and Sell Stock II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/122.py)\
+0155 Min Stack [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/155.py)\
 0190 Reverse Bits [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/190.py)\
 0191 Number of 1 Bits [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/191.py)\
 0203 Remove Linked List Elements [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/203.py)\
@@ -24,6 +27,7 @@ Leetcode practice in python and C++
 0210 Course Schedule II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/210.py)\
 0217 Contains Duplicate [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/217.py)\
 0219 Contains Duplicate II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/219.py)\
+0225 Implement Stack using Queues [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/225.py)\
 0242 Valid Anagram [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/242.py)\
 0310 Minimum Height Trees [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)\
 0392 Is Subsequence [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)\
