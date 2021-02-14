@@ -42,6 +42,8 @@ Leetcode practice in python and C++
 0507 Perfect Number [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/507.py)\
 0566 Reshape the Matrix [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/566.py)\
 0605 Can Place Flowers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/605.py)\
+0637 Average of Levels in Binary Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/637.py)\
+0653 Two Sum IV - Input is a BST [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/653.py)\
 0703 Kth Largest Element in a Stream [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/703.py)\
 0728 Self Dividing Numbers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/728.py)\
 0832 Flipping an Image [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/832.py)\
