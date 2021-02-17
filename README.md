@@ -8,6 +8,7 @@ Leetcode practice in python and C++
 0026 Remove Duplicates from Sorted Array [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/26.py)\
 0027 Remove Element [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/27.py)\
 0031 Next Permutation [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/31.py)\
+0035 Search Insert Position [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/35.py)\
 0046 Permutations [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/46.py)\
 0047 Permutations II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/47.py)\
 0100 Same Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/100.py)\
@@ -22,6 +23,7 @@ Leetcode practice in python and C++
 0121 Best Time to Buy and Sell Stock [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/121.py)\
 0122 Best Time to Buy and Sell Stock II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/122.py)\
 0155 Min Stack [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/155.py)\
+0169 Majority Element [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/169.py)\
 0190 Reverse Bits [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/190.py)\
 0191 Number of 1 Bits [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/191.py)\
 0203 Remove Linked List Elements [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/203.py)\
