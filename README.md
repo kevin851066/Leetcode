@@ -11,6 +11,8 @@ Leetcode practice in python and C++
 0035 Search Insert Position [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/35.py)\
 0046 Permutations [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/46.py)\
 0047 Permutations II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/47.py)\
+0056 Merge Intervals [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/56.py)\
+0057 Insert Interval [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/57.py)\
 0094 Binary Tree Inorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/94.py)\
 0100 Same Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/100.py)\
 0101 Symmetric Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/101.py)\
