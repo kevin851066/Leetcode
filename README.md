@@ -49,6 +49,8 @@ Leetcode practice in python and C++
 0477 Total Hamming Distance [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/477.py)\
 0507 Perfect Number [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/507.py)\
 0566 Reshape the Matrix [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/566.py)\
+0589 N-ary Tree Preorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/589.py)\
+0590 N-ary Tree Postorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/590.py)\
 0605 Can Place Flowers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/605.py)\
 0637 Average of Levels in Binary Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/637.py)\
 0653 Two Sum IV - Input is a BST [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/653.py)\
