@@ -11,6 +11,7 @@ Leetcode practice in python and C++
 0035 Search Insert Position [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/35.py)\
 0046 Permutations [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/46.py)\
 0047 Permutations II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/47.py)\
+0094 Binary Tree Inorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/94.py)\
 0100 Same Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/100.py)\
 0101 Symmetric Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/101.py)\
 0102 Binary Tree Level Order Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/102.py)\
@@ -22,6 +23,8 @@ Leetcode practice in python and C++
 0112 Path Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/112.py)\
 0121 Best Time to Buy and Sell Stock [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/121.py)\
 0122 Best Time to Buy and Sell Stock II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/122.py)\
+0144 Binary Tree Preorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/144.py)\
+0145 Binary Tree Postorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/145.py)\
 0155 Min Stack [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/155.py)\
 0169 Majority Element [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/169.py)\
 0190 Reverse Bits [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/190.py)\
@@ -37,6 +40,7 @@ Leetcode practice in python and C++
 0310 Minimum Height Trees [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)\
 0342 Power of Four [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/342.py)\
 0392 Is Subsequence [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)\
+0429 N-ary Tree Level Order Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/429.py)\
 0438 Find All Anagrams in a String [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/438.py)\
 0455 Assign Cookies [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/455.py)\
 0461 Hamming Distance [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/461.py)\
