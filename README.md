@@ -11,6 +11,7 @@ Leetcode practice in python and C++
 0035 Search Insert Position [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/35.py)\
 0046 Permutations [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/46.py)\
 0047 Permutations II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/47.py)\
+0053 Maximum Subarray [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/53.py)\
 0056 Merge Intervals [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/56.py)\
 0057 Insert Interval [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/57.py)\
 0094 Binary Tree Inorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/94.py)\
@@ -54,8 +55,10 @@ Leetcode practice in python and C++
 0605 Can Place Flowers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/605.py)\
 0637 Average of Levels in Binary Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/637.py)\
 0653 Two Sum IV - Input is a BST [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/653.py)\
+0697 Degree of an Array [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/697.py)\
 0703 Kth Largest Element in a Stream [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/703.py)\
 0728 Self Dividing Numbers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/728.py)\
+0763 Partition Labels [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/763.py)\
 0832 Flipping an Image [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/832.py)\
 0860 Lemonade Change [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/860.py)\
 0997 Find the Town Judge [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/997.py)
