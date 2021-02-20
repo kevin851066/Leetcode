@@ -14,6 +14,7 @@ Leetcode practice in python and C++
 0053 Maximum Subarray [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/53.py)\
 0056 Merge Intervals [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/56.py)\
 0057 Insert Interval [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/57.py)\
+0070 Climbing Stairs [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/70.py)\
 0094 Binary Tree Inorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/94.py)\
 0100 Same Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/100.py)\
 0101 Symmetric Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/101.py)\
@@ -58,10 +59,14 @@ Leetcode practice in python and C++
 0697 Degree of an Array [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/697.py)\
 0703 Kth Largest Element in a Stream [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/703.py)\
 0728 Self Dividing Numbers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/728.py)\
+0746 Min Cost Climbing Stairs [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/746.py)\
 0763 Partition Labels [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/763.py)\
 0832 Flipping an Image [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/832.py)\
 0860 Lemonade Change [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/860.py)\
+0905 Sort Array By Parity [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/905.py)\
+0922 Sort Array By Parity II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/922.py)\
 0997 Find the Town Judge [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/997.py)
 1046 Last Stone Weight [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1046.py)\
+1137 N-th Tribonacci Number [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1137.py)\
 1629 Slowest Key [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1629.py)\
 1652 Defuse the Bomb [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)
