@@ -59,6 +59,7 @@ Leetcode practice in python and C++
 0697 Degree of an Array [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/697.py)\
 0703 Kth Largest Element in a Stream [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/703.py)\
 0728 Self Dividing Numbers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/728.py)\
+0743 Network Delay Time [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/743.py)\
 0746 Min Cost Climbing Stairs [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/746.py)\
 0763 Partition Labels [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/763.py)\
 0832 Flipping an Image [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/832.py)\
@@ -68,5 +69,6 @@ Leetcode practice in python and C++
 0997 Find the Town Judge [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/997.py)
 1046 Last Stone Weight [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1046.py)\
 1137 N-th Tribonacci Number [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1137.py)\
+1334 Find the City With the Smallest Number of Neighbors at a Threshold Distance [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1334.py)\
 1629 Slowest Key [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1629.py)\
 1652 Defuse the Bomb [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)
