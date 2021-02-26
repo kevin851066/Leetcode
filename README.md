@@ -2,6 +2,7 @@
 Leetcode practice in python and C++
 
 0001 Two Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1.py)[[cpp]](https://github.com/kevin851066/Leetcode/blob/main/C%2B%2B/1.cpp)\
+0002 Add Two Numbers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/2.py)\
 0003 Longest Substring Without Repeating Characters [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/3.py)[[cpp]](https://github.com/kevin851066/Leetcode/blob/main/C%2B%2B/3.cpp)\
 0013 Roman to Integer [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/13.py)\
 0020 Valid Parentheses [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/20.py)\
@@ -44,6 +45,7 @@ Leetcode practice in python and C++
 0310 Minimum Height Trees [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)\
 0342 Power of Four [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/342.py)\
 0392 Is Subsequence [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)\
+0415 Add Strings [py]](https://github.com/kevin851066/Leetcode/blob/main/Python/415.py)\
 0429 N-ary Tree Level Order Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/429.py)\
 0438 Find All Anagrams in a String [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/438.py)\
 0455 Assign Cookies [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/455.py)\
