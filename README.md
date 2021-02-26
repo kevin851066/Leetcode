@@ -10,11 +10,13 @@ Leetcode practice in python and C++
 0027 Remove Element [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/27.py)\
 0031 Next Permutation [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/31.py)\
 0035 Search Insert Position [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/35.py)\
+0043 Multiply Strings [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/43.py)\
 0046 Permutations [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/46.py)\
 0047 Permutations II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/47.py)\
 0053 Maximum Subarray [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/53.py)\
 0056 Merge Intervals [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/56.py)\
 0057 Insert Interval [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/57.py)\
+0066 Plus One [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/66.py)\
 0070 Climbing Stairs [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/70.py)\
 0094 Binary Tree Inorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/94.py)\
 0100 Same Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/100.py)\
