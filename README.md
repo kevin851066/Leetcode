@@ -73,6 +73,9 @@ Leetcode practice in python and C++
 0997 Find the Town Judge [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/997.py)
 1046 Last Stone Weight [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1046.py)\
 1137 N-th Tribonacci Number [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1137.py)\
+1217 Minimum Cost to Move Chips to The Same Position [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1217.py)\
+1221 Split a String in Balanced Strings [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1221.py)\
 1334 Find the City With the Smallest Number of Neighbors at a Threshold Distance [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1334.py)\
 1629 Slowest Key [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1629.py)\
 1652 Defuse the Bomb [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)
+1725 Number Of Rectangles That Can Form The Largest Square [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1725.py)
