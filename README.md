@@ -10,6 +10,8 @@ Leetcode practice in python and C++
 0027 Remove Element [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/27.py)\
 0031 Next Permutation [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/31.py)\
 0035 Search Insert Position [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/35.py)\
+0039 Combination Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/39.py)\
+0040 Combination Sum II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/40.py)\
 0043 Multiply Strings [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/43.py)\
 0046 Permutations [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/46.py)\
 0047 Permutations II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/47.py)\
@@ -18,6 +20,7 @@ Leetcode practice in python and C++
 0057 Insert Interval [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/57.py)\
 0066 Plus One [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/66.py)\
 0070 Climbing Stairs [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/70.py)\
+0077 Combinations [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/77.py)\
 0094 Binary Tree Inorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/94.py)\
 0100 Same Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/100.py)\
 0101 Symmetric Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/101.py)\
@@ -39,6 +42,7 @@ Leetcode practice in python and C++
 0203 Remove Linked List Elements [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/203.py)\
 0207 Course Schedule [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/207.py)\
 0210 Course Schedule II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/210.py)\
+0216 Combination Sum III [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/216.py)\
 0217 Contains Duplicate [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/217.py)\
 0219 Contains Duplicate II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/219.py)\
 0225 Implement Stack using Queues [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/225.py)\
@@ -50,6 +54,7 @@ Leetcode practice in python and C++
 0415 Add Strings [py]](https://github.com/kevin851066/Leetcode/blob/main/Python/415.py)\
 0429 N-ary Tree Level Order Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/429.py)\
 0438 Find All Anagrams in a String [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/438.py)\
+0445 Add Two Numbers II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/445.py)\
 0455 Assign Cookies [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/455.py)\
 0461 Hamming Distance [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/461.py)\
 0477 Total Hamming Distance [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/477.py)\
