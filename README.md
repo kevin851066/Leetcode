@@ -54,7 +54,7 @@ Leetcode practice in python and C++
 0310 Minimum Height Trees [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)\
 0342 Power of Four [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/342.py)\
 0392 Is Subsequence [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)\
-0415 Add Strings [py]](https://github.com/kevin851066/Leetcode/blob/main/Python/415.py)\
+0415 Add Strings [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/415.py)\
 0429 N-ary Tree Level Order Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/429.py)\
 0438 Find All Anagrams in a String [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/438.py)\
 0445 Add Two Numbers II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/445.py)\
@@ -88,5 +88,5 @@ Leetcode practice in python and C++
 1351 Count Negative Numbers in a Sorted Matrix [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1351.py)\
 1334 Find the City With the Smallest Number of Neighbors at a Threshold Distance [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1334.py)\
 1629 Slowest Key [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1629.py)\
-1652 Defuse the Bomb [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)
+1652 Defuse the Bomb [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)\
 1725 Number Of Rectangles That Can Form The Largest Square [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1725.py)
