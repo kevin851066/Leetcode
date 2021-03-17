@@ -33,26 +33,26 @@ Leetcode practice in python and C++
 |0104 | Easy |Maximum Depth of Binary Tree| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/104.py)|
 |0107 | Medium |Binary Tree Level Order Traversal II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/107.py)|
 |0108 | Easy |Convert Sorted Array to Binary Search Tree |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/108.py)|
-|0110 Balanced Binary Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/110.py)\
-|0111 Minimum Depth of Binary Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/111.py)\
-|0112 Path Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/112.py)\
-|0121 Best Time to Buy and Sell Stock [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/121.py)\
-|0122 Best Time to Buy and Sell Stock II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/122.py)\
-|0144 Binary Tree Preorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/144.py)\
-|0145 Binary Tree Postorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/145.py)\
-|0155 Min Stack [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/155.py)\
-|0169 Majority Element [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/169.py)\
-|0190 Reverse Bits [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/190.py)\
-|0191 Number of 1 Bits [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/191.py)\
-0203 Remove Linked List Elements [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/203.py)\
-0207 Course Schedule [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/207.py)\
-0210 Course Schedule II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/210.py)\
-0216 Combination Sum III [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/216.py)\
-0217 Contains Duplicate [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/217.py)\
-0219 Contains Duplicate II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/219.py)\
-0225 Implement Stack using Queues [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/225.py)\
-0231 Power of Two [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/231.py)\
-0242 Valid Anagram [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/242.py)\
+|0110 | Easy |Balanced Binary Tree |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/110.py)|
+|0111 | Easy |Minimum Depth of Binary Tree| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/111.py)|
+|0112 | Easy |Path Sum |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/112.py)|
+|0121 | Easy |Best Time to Buy and Sell Stock| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/121.py)|
+|0122 | Easy |Best Time to Buy and Sell Stock II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/122.py)|
+|0144 | Medium |Binary Tree Preorder Traversal |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/144.py)|
+|0145 | Medium |Binary Tree Postorder Traversal| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/145.py)|
+|0155 | Easy |Min Stack |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/155.py)|
+|0169 | Easy |Majority Element |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/169.py)|
+|0190 | Easy |Reverse Bits| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/190.py)|
+|0191 | Easy |Number of 1 Bits| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/191.py)|
+|0203 | Easy |Remove Linked List Elements |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/203.py)|
+|0207 | Medium |Course Schedule  |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/207.py)|
+|0210 | Medium |Course Schedule II   |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/210.py)|
+|0216 | Medium |Combination Sum III |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/216.py)|
+|0217 | Easy |Contains Duplicate |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/217.py)|
+|0219 | Easy |Contains Duplicate II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/219.py)|
+|0225 | Easy| Implement Stack using Queues| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/225.py)|
+|0231 |Easy|Power of Two| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/231.py)|
+|0242 |Easy|Valid Anagram| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/242.py)|
 0310 Minimum Height Trees [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)\
 0342 Power of Four [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/342.py)\
 0392 Is Subsequence [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)\
