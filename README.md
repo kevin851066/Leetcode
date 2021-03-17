@@ -4,9 +4,8 @@ Leetcode practice in python and C++
 | # | Difficulty | Challenge | Python Solution | C++ Solution |
 | :-----:  | :----:     | :----:    | :----:|  :----:    |
 | 0001 | Easy | Two Sum |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1.py) |[[cpp]](https://github.com/kevin851066/Leetcode/blob/main/C%2B%2B/1.cpp)|
-
-0002 Add Two Numbers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/2.py)\
-0003 Longest Substring Without Repeating Characters [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/3.py)[[cpp]](https://github.com/kevin851066/Leetcode/blob/main/C%2B%2B/3.cpp)\
+| 0002 | Medium | Add Two Numbers | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/2.py) |
+| 0003 | Medium | Longest Substring Without Repeating Characters | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/3.py) |[[cpp]](https://github.com/kevin851066/Leetcode/blob/main/C%2B%2B/3.cpp)|
 0013 Roman to Integer [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/13.py)\
 0015 3Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/15.py)\
 0016 3Sum Closest [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/16.py)\
@@ -83,6 +82,7 @@ Leetcode practice in python and C++
 0860 Lemonade Change [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/860.py)\
 0905 Sort Array By Parity [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/905.py)\
 0922 Sort Array By Parity II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/922.py)\
+0962 Maximum Width Ramp [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/962.py)\
 0997 Find the Town Judge [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/997.py)
 1046 Last Stone Weight [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1046.py)\
 1137 N-th Tribonacci Number [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1137.py)\
@@ -90,6 +90,7 @@ Leetcode practice in python and C++
 1221 Split a String in Balanced Strings [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1221.py)\
 1351 Count Negative Numbers in a Sorted Matrix [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1351.py)\
 1334 Find the City With the Smallest Number of Neighbors at a Threshold Distance [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1334.py)\
+1414 Find the Minimum Number of Fibonacci Numbers Whose Sum Is K [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1414.py)\
 1629 Slowest Key [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1629.py)\
 1652 Defuse the Bomb [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)\
 1725 Number Of Rectangles That Can Form The Largest Square [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1725.py)
