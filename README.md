@@ -18,8 +18,8 @@ Leetcode practice in python and C++
 0039 | Medium |Combination Sum |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/39.py)|
 0040 | Medium |Combination Sum II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/40.py)|
 0043 | Medium |Multiply Strings| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/43.py)|
-0046 Permutations [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/46.py)\
-0047 Permutations II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/47.py)\
+0046| Medium | Permutations | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/46.py)|
+0047 | Medium |Permutations II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/47.py)|
 0053 Maximum Subarray [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/53.py)\
 0056 Merge Intervals [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/56.py)\
 0057 Insert Interval [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/57.py)\
