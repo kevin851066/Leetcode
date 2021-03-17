@@ -53,45 +53,45 @@ Leetcode practice in python and C++
 |0225 | Easy| Implement Stack using Queues| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/225.py)|
 |0231 |Easy|Power of Two| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/231.py)|
 |0242 |Easy|Valid Anagram| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/242.py)|
-0310 Minimum Height Trees [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)\
-0342 Power of Four [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/342.py)\
-0392 Is Subsequence [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)\
-0415 Add Strings [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/415.py)\
-0429 N-ary Tree Level Order Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/429.py)\
-0438 Find All Anagrams in a String [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/438.py)\
-0445 Add Two Numbers II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/445.py)\
-0455 Assign Cookies [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/455.py)\
-0461 Hamming Distance [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/461.py)\
-0473 Matchsticks to Square [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/473.py)\
-0477 Total Hamming Distance [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/477.py)\
-0507 Perfect Number [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/507.py)\
-0566 Reshape the Matrix [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/566.py)\
-0589 N-ary Tree Preorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/589.py)\
-0590 N-ary Tree Postorder Traversal [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/590.py)\
-0605 Can Place Flowers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/605.py)\
-0637 Average of Levels in Binary Tree [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/637.py)\
-0653 Two Sum IV - Input is a BST [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/653.py)\
-0697 Degree of an Array [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/697.py)\
-0698 Partition to K Equal Sum Subsets [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/698.py)\
-0703 Kth Largest Element in a Stream [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/703.py)\
-0728 Self Dividing Numbers [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/728.py)\
-0743 Network Delay Time [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/743.py)\
-0746 Min Cost Climbing Stairs [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/746.py)\
-0763 Partition Labels [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/763.py)\
-0832 Flipping an Image [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/832.py)\
-0860 Lemonade Change [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/860.py)\
-0905 Sort Array By Parity [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/905.py)\
-0922 Sort Array By Parity II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/922.py)\
-|0962 Maximum Width Ramp [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/962.py)\
-|0997 Find the Town Judge [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/997.py)
-|1046 Last Stone Weight [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1046.py)\
-|1137 N-th Tribonacci Number [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1137.py)\
-|1217 Minimum Cost to Move Chips to The Same Position [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1217.py)\
-|1221 Split a String in Balanced Strings [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1221.py)\
-|1351 Count Negative Numbers in a Sorted Matrix [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1351.py)\
-|1334 Find the City With the Smallest Number of Neighbors at a Threshold Distance [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1334.py)\
-|1414 Find the Minimum Number of Fibonacci Numbers Whose Sum Is K [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1414.py)\
-|1629 Slowest Key [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1629.py)\
-|1652 Defuse the Bomb [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)\
-|1725 Number Of Rectangles That Can Form The Largest Square [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1725.py)
+|0310 | Medium |Minimum Height Trees |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)|
+|0342 |Easy|Power of Four |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/342.py)|
+|0392 |Easy|Is Subsequence |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)|
+|0415 |Easy|Add Strings |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/415.py)|
+|0429| Medium | N-ary Tree Level Order Traversal |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/429.py)|
+|0438 | Medium |Find All Anagrams in a String |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/438.py)|
+|0445 | Medium |Add Two Numbers II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/445.py)|
+|0455 |Easy|Assign Cookies |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/455.py)|
+|0461 |Easy|Hamming Distance |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/461.py)|
+|0473 | Medium |Matchsticks to Square |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/473.py)|
+|0477 | Medium |Total Hamming Distance |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/477.py)|
+|0507 |Easy|Perfect Number |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/507.py)|
+|0566 |Easy|Reshape the Matrix |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/566.py)|
+|0589 |Easy|N-ary Tree Preorder Traversal |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/589.py)|
+|0590 |Easy|N-ary Tree Postorder Traversal |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/590.py)|
+|0605 |Easy|Can Place Flowers |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/605.py)|
+|0637 |Easy|Average of Levels in Binary Tree |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/637.py)|
+|0653 |Easy|Two Sum IV - Input is a BST |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/653.py)|
+|0697 |Easy|Degree of an Array |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/697.py)|
+|0698 | Medium |Partition to K Equal Sum Subsets |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/698.py)|
+|0703 |Easy|Kth Largest Element in a Stream| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/703.py)|
+|0728 |Easy|Self Dividing Numbers |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/728.py)|
+|0743 | Medium |Network Delay Time |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/743.py)|
+|0746|Easy| Min Cost Climbing Stairs |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/746.py)|
+|0763 | Medium |Partition Labels |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/763.py)|
+|0832 |Easy|Flipping an Image |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/832.py)|
+|0860 |Easy|Lemonade Change |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/860.py)|
+|0905 |Easy|Sort Array By Parity |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/905.py)|
+|0922 |Easy|Sort Array By Parity II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/922.py)|
+|0962 | Medium |Maximum Width Ramp |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/962.py)|
+|0997 |Easy|Find the Town Judge |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/997.py)|
+|1046 |Easy|Last Stone Weight |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1046.py)|
+|1137 |Easy|N-th Tribonacci Number |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1137.py)|
+|1217 |Easy|Minimum Cost to Move Chips to The Same Position |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1217.py)|
+|1221 |Easy|Split a String in Balanced Strings |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1221.py)|
+|1334 | Medium |Find the City With the Smallest Number of Neighbors at a Threshold Distance |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1334.py)|
+|1351 |Easy|Count Negative Numbers in a Sorted Matrix |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1351.py)|
+|1414 | Medium |Find the Minimum Number of Fibonacci Numbers Whose Sum Is K |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1414.py)|
+|1629 |Easy|Slowest Key |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1629.py)|
+|1652 |Easy|Defuse the Bomb |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)|
+|1725 |Easy|Number Of Rectangles That Can Form The Largest Square |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1725.py)|
 
