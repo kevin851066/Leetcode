@@ -7,17 +7,17 @@ Leetcode practice in python and C++
 | 0002 | Medium | Add Two Numbers | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/2.py) |
 | 0003 | Medium | Longest Substring Without Repeating Characters | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/3.py) |[[cpp]](https://github.com/kevin851066/Leetcode/blob/main/C%2B%2B/3.cpp)|
 |0013|  Easy |Roman to Integer| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/13.py)|
-0015 3Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/15.py)\
-0016 3Sum Closest [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/16.py)\
-0018 4Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/18.py)\
-0020 Valid Parentheses [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/20.py)\
-0026 Remove Duplicates from Sorted Array [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/26.py)\
-0027 Remove Element [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/27.py)\
-0031 Next Permutation [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/31.py)\
-0035 Search Insert Position [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/35.py)\
-0039 Combination Sum [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/39.py)\
-0040 Combination Sum II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/40.py)\
-0043 Multiply Strings [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/43.py)\
+0015| Medium |3Sum| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/15.py)|
+0016| Medium | 3Sum Closest |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/16.py)|
+0018| Medium | 4Sum |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/18.py)|
+0020 | Easy |Valid Parentheses | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/20.py)|
+0026 | Easy |Remove Duplicates from Sorted Array | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/26.py)|
+0027 | Easy |Remove Element| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/27.py)|
+0031 | Medium |Next Permutation |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/31.py)|
+0035 | Easy |Search Insert Position| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/35.py)|
+0039 | Medium |Combination Sum |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/39.py)|
+0040 | Medium |Combination Sum II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/40.py)|
+0043 | Medium |Multiply Strings| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/43.py)|
 0046 Permutations [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/46.py)\
 0047 Permutations II [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/47.py)\
 0053 Maximum Subarray [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/53.py)\
