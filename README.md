@@ -53,6 +53,7 @@ Leetcode practice in python and C++
 |0225 | Easy| Implement Stack using Queues| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/225.py)|
 |0231 |Easy|Power of Two| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/231.py)|
 |0242 |Easy|Valid Anagram| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/242.py)|
+|0263 |Easy| Ugly Number|[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/263.py)|
 |0310 | Medium |Minimum Height Trees |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)|
 |0342 |Easy|Power of Four |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/342.py)|
 |0392 |Easy|Is Subsequence |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)|
@@ -91,6 +92,7 @@ Leetcode practice in python and C++
 |1334 | Medium |Find the City With the Smallest Number of Neighbors at a Threshold Distance |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1334.py)|
 |1351 |Easy|Count Negative Numbers in a Sorted Matrix |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1351.py)|
 |1414 | Medium |Find the Minimum Number of Fibonacci Numbers Whose Sum Is K |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1414.py)|
+| 1512||Easy|Number of Good Pairs| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1512.py)|
 |1629 |Easy|Slowest Key |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1629.py)|
 |1652 |Easy|Defuse the Bomb |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)|
 |1725 |Easy|Number Of Rectangles That Can Form The Largest Square |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1725.py)|
