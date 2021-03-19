@@ -92,7 +92,7 @@ Leetcode practice in python and C++
 |1334 | Medium |Find the City With the Smallest Number of Neighbors at a Threshold Distance |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1334.py)|
 |1351 |Easy|Count Negative Numbers in a Sorted Matrix |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1351.py)|
 |1414 | Medium |Find the Minimum Number of Fibonacci Numbers Whose Sum Is K |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1414.py)|
-| 1512||Easy|Number of Good Pairs| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1512.py)|
+| 1512|Easy|Number of Good Pairs| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1512.py)|
 |1629 |Easy|Slowest Key |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1629.py)|
 |1652 |Easy|Defuse the Bomb |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1652.py)|
 |1725 |Easy|Number Of Rectangles That Can Form The Largest Square |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1725.py)|
