@@ -30,6 +30,7 @@ Leetcode practice in python and C++
 |0100 | Easy |Same Tree |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/100.py)|
 |0101 | Easy |Symmetric Tree |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/101.py)|
 |0102 | Medium |Binary Tree Level Order Traversal |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/102.py)|
+|0103 | Medium |Binary Tree Zigzag Level Order Traversal |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/103.py)|
 |0104 | Easy |Maximum Depth of Binary Tree| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/104.py)|
 |0107 | Medium |Binary Tree Level Order Traversal II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/107.py)|
 |0108 | Easy |Convert Sorted Array to Binary Search Tree |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/108.py)|
@@ -55,6 +56,7 @@ Leetcode practice in python and C++
 |0242 |Easy|Valid Anagram| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/242.py)|
 |0263 |Easy| Ugly Number|[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/263.py)|
 |0264 |Medium| Ugly Number II|[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/264.py)|
+|0279 |Medium| Perfect Squares|[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/279.py)|
 |0310 | Medium |Minimum Height Trees |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)|
 |0342 |Easy|Power of Four |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/342.py)|
 |0392 |Easy|Is Subsequence |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)|
