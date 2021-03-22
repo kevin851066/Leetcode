@@ -54,6 +54,7 @@ Leetcode practice in python and C++
 |0231 |Easy|Power of Two| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/231.py)|
 |0242 |Easy|Valid Anagram| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/242.py)|
 |0263 |Easy| Ugly Number|[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/263.py)|
+|0264 |Medium| Ugly Number II|[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/264.py)|
 |0310 | Medium |Minimum Height Trees |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)|
 |0342 |Easy|Power of Four |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/342.py)|
 |0392 |Easy|Is Subsequence |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)|
