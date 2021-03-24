@@ -6,6 +6,7 @@ Leetcode practice in python and C++
 | 0001 | Easy | Two Sum |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/1.py) |[[cpp]](https://github.com/kevin851066/Leetcode/blob/main/C%2B%2B/1.cpp)|
 | 0002 | Medium | Add Two Numbers | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/2.py) |
 | 0003 | Medium | Longest Substring Without Repeating Characters | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/3.py) |[[cpp]](https://github.com/kevin851066/Leetcode/blob/main/C%2B%2B/3.cpp)|
+|0009|  Easy |Palindrome Number| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/9.py)|
 |0013|  Easy |Roman to Integer| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/13.py)|
 |0015| Medium |3Sum| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/15.py)|
 |0016| Medium | 3Sum Closest |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/16.py)|
@@ -37,6 +38,8 @@ Leetcode practice in python and C++
 |0110 | Easy |Balanced Binary Tree |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/110.py)|
 |0111 | Easy |Minimum Depth of Binary Tree| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/111.py)|
 |0112 | Easy |Path Sum |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/112.py)|
+|0116 | Medium |Populating Next Right Pointers in Each Node |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/116.py)|
+|0117 | Medium |Populating Next Right Pointers in Each Node II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/117.py)|
 |0121 | Easy |Best Time to Buy and Sell Stock| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/121.py)|
 |0122 | Easy |Best Time to Buy and Sell Stock II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/122.py)|
 |0144 | Medium |Binary Tree Preorder Traversal |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/144.py)|
@@ -84,6 +87,7 @@ Leetcode practice in python and C++
 |0763 | Medium |Partition Labels |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/763.py)|
 |0832 |Easy|Flipping an Image |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/832.py)|
 |0860 |Easy|Lemonade Change |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/860.py)|
+|0876 |Easy|Middle of the Linked List |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/876.py)|
 |0905 |Easy|Sort Array By Parity |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/905.py)|
 |0922 |Easy|Sort Array By Parity II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/922.py)|
 |0962 | Medium |Maximum Width Ramp |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/962.py)|
