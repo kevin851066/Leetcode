@@ -1,5 +1,5 @@
 class Solution:
-    def grayCode(self, n: int) -> :
+    def grayCode(self, n: int):
         """
         :type n: int
         :rtype: List[int]
