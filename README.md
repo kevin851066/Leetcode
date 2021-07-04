@@ -27,6 +27,7 @@ Leetcode practice in python and C++
 |0066 | Easy |Plus One| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/66.py)|
 |0070| Easy | Climbing Stairs |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/70.py)|
 |0077 | Medium |Combinations |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/77.py)|
+|0089 | Medium |Gray Code |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/89.py)|
 |0094 | Medium |Binary Tree Inorder Traversal |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/94.py)|
 |0100 | Easy |Same Tree |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/100.py)|
 |0101 | Easy |Symmetric Tree |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/101.py)|
@@ -46,6 +47,7 @@ Leetcode practice in python and C++
 |0145 | Medium |Binary Tree Postorder Traversal| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/145.py)|
 |0155 | Easy |Min Stack |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/155.py)|
 |0169 | Easy |Majority Element |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/169.py)|
+|0172 | Easy |Factorial Trailing Zeroes |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/172.py)|
 |0190 | Easy |Reverse Bits| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/190.py)|
 |0191 | Easy |Number of 1 Bits| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/191.py)|
 |0203 | Easy |Remove Linked List Elements |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/203.py)|
