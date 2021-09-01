@@ -10,8 +10,10 @@ Leetcode practice in python and C++
 |0013|  Easy |Roman to Integer| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/13.py)|
 |0015| Medium |3Sum| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/15.py)|
 |0016| Medium | 3Sum Closest |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/16.py)|
+|0017| Medium | Letter Combinations of a Phone Number |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/17.py)|
 |0018| Medium | 4Sum |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/18.py)|
 |0020 | Easy |Valid Parentheses | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/20.py)|
+|0022 | Medium|Generate Parentheses | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/22.py)|
 |0026 | Easy |Remove Duplicates from Sorted Array | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/26.py)|
 |0027 | Easy |Remove Element| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/27.py)|
 |0031 | Medium |Next Permutation |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/31.py)|
@@ -25,6 +27,7 @@ Leetcode practice in python and C++
 |0056 | Medium |Merge Intervals |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/56.py)|
 |0057 | Medium |Insert Interval |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/57.py)|
 |0066 | Easy |Plus One| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/66.py)|
+|0067 | Easy |Add Binary| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/67.py)|
 |0070| Easy | Climbing Stairs |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/70.py)|
 |0077 | Medium |Combinations |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/77.py)|
 |0089 | Medium |Gray Code |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/89.py)|
@@ -65,6 +68,7 @@ Leetcode practice in python and C++
 |0310 | Medium |Minimum Height Trees |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/310.py)|
 |0342 |Easy|Power of Four |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/342.py)|
 |0392 |Easy|Is Subsequence |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/392.py)|
+|0409 |Easy|Longest Palindrome |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/409.py)|
 |0415 |Easy|Add Strings |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/415.py)|
 |0429| Medium | N-ary Tree Level Order Traversal |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/429.py)|
 |0438 | Medium |Find All Anagrams in a String |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/438.py)|
