@@ -21,16 +21,20 @@ Leetcode practice in python and C++
 |0039 | Medium |Combination Sum |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/39.py)|
 |0040 | Medium |Combination Sum II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/40.py)|
 |0043 | Medium |Multiply Strings| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/43.py)|
+|0045 | Medium |Jump Game II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/45.py)|
 |0046| Medium | Permutations | [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/46.py)|
 |0047 | Medium |Permutations II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/47.py)|
 |0053 | Easy | Maximum Subarray |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/53.py)|
+|0055 | Medium |Jump Game |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/55.py)|
 |0056 | Medium |Merge Intervals |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/56.py)|
 |0057 | Medium |Insert Interval |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/57.py)|
 |0066 | Easy |Plus One| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/66.py)|
 |0067 | Easy |Add Binary| [[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/67.py)|
 |0070| Easy | Climbing Stairs |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/70.py)|
 |0077 | Medium |Combinations |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/77.py)|
+|0078 | Medium |Subsets |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/78.py)|
 |0089 | Medium |Gray Code |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/89.py)|
+|0090 | Medium |Subsets II |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/90.py)|
 |0094 | Medium |Binary Tree Inorder Traversal |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/94.py)|
 |0100 | Easy |Same Tree |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/100.py)|
 |0101 | Easy |Symmetric Tree |[[py]](https://github.com/kevin851066/Leetcode/blob/main/Python/101.py)|
